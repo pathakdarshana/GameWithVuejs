@@ -1,4 +1,4 @@
 # GameWithVuejs
 <hr>
-a simple game with vue js 
-Game Demo link: [DEMO](https://pathakdarshana.github.io/GameWithVuejs/)
+A simple game using vue js.
+Game Demo Link:[Demo](https://pathakdarshana.github.io/GameWithVuejs/)
